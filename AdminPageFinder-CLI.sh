@@ -42,7 +42,7 @@ usage=""$0" -u www.site.com -t 1 -o output.txt
 
 where:
     -h  show this help text
-    -u  set the seed value (default: 42)
+    -u  url(www.site.com)
     -t  Site Language(1.php,2.asp,3.html,4.jsp,5.other)
     -o  Choose output name file(Default is output.txt)"
 
